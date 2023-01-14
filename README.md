@@ -26,6 +26,6 @@ I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :fire: In my free time, I continue to study in Ajax, Servlets, REST, Docker and Spring
 
-- :mailbox:How to reach me - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/сергей-горбачев-421968121/)
+- :mailbox:How to reach me - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/сергей-горбачев/)
 
 ---
