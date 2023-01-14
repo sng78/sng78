@@ -30,7 +30,7 @@ I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-### :bookmark_tabs: My best repositories:
+### :bookmark_tabs: My best repositories (clickable):
 
 [Coursework 1](https://github.com/sng78/Converter): Converter to text graphics
 
