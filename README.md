@@ -16,7 +16,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
 I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
@@ -30,7 +30,19 @@ I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :bookmark_tabs: My best repositories:
+
+[Coursework 1](https://github.com/sng78/Converter): Converter to text graphics
+
+[Coursework 2](https://github.com/sng78/FinanceManager): Personal Finance Manager
+
+[Coursework 3](https://github.com/sng78/TaskManager): Task Manager
+
+[Diploma thesis](https://github.com/sng78/pcs-final-diplom): Search engine
+
+---
+
+### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -52,7 +64,7 @@ I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sng78&theme=solarized_dark)
 
