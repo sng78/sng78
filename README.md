@@ -50,6 +50,7 @@ I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/sng78/SVG-icons/blob/main/JUnit5.svg" title="JUnit5" alt="JUnit5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/sng78/SVG-icons/blob/main/Mockito.svg" title="Mockito" alt="Mockito" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
