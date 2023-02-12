@@ -32,13 +32,13 @@ I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ### :bookmark_tabs: My best repositories (clickable):
 
-[Coursework 1](https://github.com/sng78/Converter): Converter to text graphics
+[Project one](https://github.com/sng78/pcs-final-diplom): Search engine
 
-[Coursework 2](https://github.com/sng78/FinanceManager): Personal Finance Manager
+[Project two](https://github.com/sng78/TaskManager): Task Manager
 
-[Coursework 3](https://github.com/sng78/TaskManager): Task Manager
+[Project three](https://github.com/sng78/FinanceManager): Personal Finance Manager
 
-[Diploma thesis](https://github.com/sng78/pcs-final-diplom): Search engine
+[Project four](https://github.com/sng78/Converter): Converter to text graphics
 
 ---
 
