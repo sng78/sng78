@@ -26,7 +26,10 @@ I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :fire: In my free time, I continue to study in Spring, Spring AOP, Spring Boot, Spring MVC, Spring Security, REST, Hibernate, Docker basics. Additionally, I'm learning English
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-gorbachev/)
+- :mailbox:How to reach me: 
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-gorbachev/)
+ [![Google Badge](https://img.shields.io/badge/-Google-red?style=flat&logo=Google&logoColor=blue)](mailto:sgor.public@gmail.com)
+ [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat&logo=Telegram&logoColor=9cf)](https://t.me/sngor78)
 
 ---
 
