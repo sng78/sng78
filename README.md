@@ -35,13 +35,13 @@ I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ### :bookmark_tabs: My best repositories (clickable):
 
-[Project one](https://github.com/sng78/pcs-final-diplom): Search engine
+[Project one. Search engine:](https://github.com/sng78/pcs-final-diplom) Developed a server application to search for a word among pdf files. At the input to the server - the word to be found, the answer - the result in the form of JSON text, ranked by the number of occurrences. Implemented a client to demonstrate how the program works.
 
-[Project two](https://github.com/sng78/TaskManager): Task Manager
+[Project two. Task Manager:](https://github.com/sng78/TaskManager) Developed the server as a separate class that accepts requests to add or remove tasks from the list. The server sends the current state of the list of tasks upon request. Implemented a client to demonstrate how the program works.
 
-[Project three](https://github.com/sng78/FinanceManager): Personal Finance Manager
+[Project three. Personal Finance Manager:](https://github.com/sng78/FinanceManager) I wrote an application that receives requests with purchase information in JSON format to the server. The server responds with text JSON with information about the maximum categories. The file was read from and written to. Implemented a client to demonstrate how the program works.
 
-[Project four](https://github.com/sng78/Converter): Converter to text graphics
+[Project four. Converter to text graphics:](https://github.com/sng78/Converter) Participated in the development of an application that can download images by URL and convert images into text graphics. Implemented the `BadImageSizeException` exception class, the `TextColorSchema` color scheme interface and the `TextGraphicsConverter` image converter interface
 
 ---
 
