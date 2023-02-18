@@ -14,16 +14,9 @@
       <img src="https://komarev.com/ghpvc/?username=sng78&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-
-
-
-
-
-
 ---
 
-### :man_technologist: About me:
+### :man: About me:
 
 I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
@@ -40,7 +33,7 @@ I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-### :bookmark_tabs: My best repositories (clickable):
+### :pushpin: My best repositories (clickable):
 
 [Project one. NASA telegram bot:](https://github.com/sng78/PicFromNasa) Developed an application for obtaining NASA astronomical images using the NASA API. I integrated it into a Telegram bot that, upon request, publishes a photo from space (images on the site are updated once a day).
 
@@ -78,8 +71,7 @@ I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-
-### :bookmark_tabs: My education documents (clickable):
+### :atom: My education documents (clickable):
 
 Diploma of professional retraining: [Java software developer](https://github.com/sng78/education/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20%D0%BD%D0%B0%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%20Java.png)
 
@@ -95,7 +87,7 @@ Diploma of higher education: [Civil engineer "Industrial and Civil Construction"
 
 ---
 
-### :fire: My Stats:
+### :chart_with_upwards_trend: My Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sng78&theme=solarized_dark)
 
