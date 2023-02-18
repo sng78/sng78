@@ -51,6 +51,7 @@ I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sng78/SVG-icons/blob/main/Hibernate_with_text.svg" title="Hibernate" alt="Hibernate" width="80" height="40"/>&nbsp;  
   <img src="https://github.com/sng78/SVG-icons/blob/main/Maven_with_text.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
   <img src="https://github.com/sng78/SVG-icons/blob/main/Gradle_with_text.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/sng78/SVG-icons/blob/main/JUnit5.svg" title="JUnit5" alt="JUnit5" width="40" height="40"/>&nbsp;
