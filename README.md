@@ -1,30 +1,37 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sng78&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hi there, I'm Sergey
+    Hey there, I'm Serge
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
-<div align="center">
+<div id="picture" align="center">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="400" height="300"/>
 </div>
 
+<div id="view icon" align="center">
+      <img src="https://komarev.com/ghpvc/?username=sng78&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+
+
+
+
+
+
 ---
 
-### :man_technologist: About Me:
+### :man_technologist: About me:
 
 I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I want to find a job as a programmer in finance / web and make my contribution to the development of the backend for creating applications
+- :telescope: I want to find a job as a programmer and make my contribution to the development of the backend for creating applications
 
 - :seedling: Exploring Technical Content Writing
 
-- :fire: In my free time, I continue to study in Spring, Spring AOP, Spring Boot, Spring MVC, Spring Security, REST, Hibernate, Docker basics. Additionally, I'm learning English
+- :fire: In my free time, I continue to study in Spring, Spring AOP, Spring Boot, Spring MVC, Spring Security, REST, Docker basics. Additionally, I'm learning English
 
 - :mailbox:How to reach me: 
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-gorbachev/)
