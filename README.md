@@ -16,7 +16,7 @@
 
 ---
 
-### :man: About Me:
+### :man: About Me
 
 I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
@@ -28,7 +28,7 @@ I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-### :envelope: Contacts:
+### :envelope: Contacts
 How to reach me:
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-gorbachev/)
  [![Google Badge](https://img.shields.io/badge/-Google-red?style=flat&logo=Google&logoColor=blue)](mailto:sgor.public@gmail.com)
@@ -36,7 +36,7 @@ How to reach me:
 
 ---
 
-### :pushpin: My Best Repositories (clickable):
+### :pushpin: My Best Repositories (clickable)
 
 [Project one. NASA telegram bot:](https://github.com/sng78/PicFromNasa) Developed an application for obtaining NASA astronomical images using the NASA API. I integrated it into a Telegram bot that, upon request, publishes a photo from space (images on the site are updated once a day).
 
@@ -50,7 +50,7 @@ How to reach me:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -74,7 +74,7 @@ How to reach me:
 
 ---
 
-### :atom: My Education Documents (clickable):
+### :atom: My Education Documents (clickable)
 
 Diploma of professional retraining: [Java software developer](https://github.com/sng78/education/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20%D0%BD%D0%B0%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%20Java.png)
 
@@ -90,7 +90,7 @@ Diploma of higher education: [Civil engineer "Industrial and Civil Construction"
 
 ---
 
-### :chart_with_upwards_trend: My Stats:
+### :chart_with_upwards_trend: My Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sng78&theme=solarized_dark)
 
