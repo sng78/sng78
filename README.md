@@ -18,7 +18,7 @@
 
 ### :man: About Me
 
-I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I want to find a job as a programmer and make my contribution to the development of the backend for creating applications
 
