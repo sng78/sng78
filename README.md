@@ -19,7 +19,7 @@
 
 Я junior java-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :potted_plant: Имею опыт разработки web-приложений на Java
+- :herb: Имею опыт разработки web-приложений на Java
 
 - :fire: Все свободное время я продолжаю обучение Spring, Spring AOP, Spring Boot, Spring MVC, Spring Security, REST, Docker. Кроме того, я изучаю английский язык
 
