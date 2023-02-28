@@ -1,7 +1,6 @@
 <div id="header" align="center">
-
   <h1>
-    Hey there, I'm Serge
+    Привет, меня зовут Сергей
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -16,41 +15,41 @@
 
 ---
 
-### :man: About Me
+### :man: Обо мне
 
-I am a junior Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Я junior java-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I want to find a job as a programmer and make my contribution to the development of the backend for creating applications
+- :telescope: Я хочу найти работу программистом и внести свой вклад в разработку бэкенда для создания приложений
 
-- :potted_plant: Exploring Technical Content Writing
+- :potted_plant: Имею опыт в разработке web-приложений на Java
 
-- :fire: In my free time, I continue to study in Spring, Spring AOP, Spring Boot, Spring MVC, Spring Security, REST, Docker basics. Additionally, I'm learning English
+- :fire: В свободное время я продолжаю обучение по: Spring, Spring AOP, Spring Boot, Spring MVC, Spring Security, REST, Docker. Кроме того, я изучаю английский язык
 
 ---
 
-### :envelope: Contacts
-How to reach me:
+### :envelope: Контакты
+Как со мной связаться:
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-gorbachev/)
  [![Google Badge](https://img.shields.io/badge/-Google-red?style=flat&logo=Google&logoColor=blue)](mailto:sgor.public@gmail.com)
  [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat&logo=Telegram&logoColor=9cf)](https://t.me/sngor78)
 
 ---
 
-### :pushpin: My Best Repositories (clickable)
+### :pushpin: Мои лучшие репозитории (кликабельно)
 
-[Project one. NASA telegram bot:](https://github.com/sng78/PicFromNasa) Developed an application for obtaining NASA astronomical images using the NASA API. I integrated it into a Telegram bot that, upon request, publishes a photo from space (images on the site are updated once a day).
+[Проект 1. Телеграм-бот NASA:](https://github.com/sng78/PicFromNasa) Разработал приложение для получения астрономических изображений NASA с помощью NASA API. Интегрировал его в Telegram-бота, который по запросу публикует фотографию из космоса (изображения на сайте обновляются раз в сутки)
 
-[Project two. Search engine:](https://github.com/sng78/pcs-final-diplom) Developed a server application to search for a word among pdf files. At the input to the server - the word to be found, the answer - the result in the form of JSON text, ranked by the number of occurrences. Implemented a client to demonstrate how the program works.
+[Проект 2. Поисковая система:](https://github.com/sng78/pcs-final-diplom) Разработал серверное приложение по поиску слова среди pdf-файлов. На входе на сервер - слово, которое необходимо найти, ответ - результат в виде JSON-текста, с ранжированием по количеству вхождений. Реализовал клиент для демонстрации работы программы
 
-[Project three. Task Manager:](https://github.com/sng78/TaskManager) Developed the server as a separate class that accepts requests to add or remove tasks from the list. The server sends the current state of the list of tasks upon request. Implemented a client to demonstrate how the program works.
+[Проект 3. Менеджер задач:](https://github.com/sng78/TaskManager) Разработал сервер в виде отдельного класса, который принимает запросы на добавление или удаление задач из списка. Текущее состояние списка задач сервер присылает по запросу. Реализовал клиент для демонстрации работы программы
 
-[Project four. Personal Finance Manager:](https://github.com/sng78/FinanceManager) I wrote an application that receives requests with purchase information in JSON format to the server. The server responds with text JSON with information about the maximum categories. The file was read from and written to. Implemented a client to demonstrate how the program works.
+[Проект 4. Менеджер личных финансов:](https://github.com/sng78/FinanceManager) I wrote an application that receives requests with purchase information in JSON format to the server. The server responds with text JSON with information about the maximum categories. The file was read from and written to. Implemented a client to demonstrate how the program works.
 
-[Project five. Converter to text graphics:](https://github.com/sng78/Converter) Participated in the development of an application that can download images by URL and convert images into text graphics. Implemented the `BadImageSizeException` exception class, the `TextColorSchema` color scheme interface and the `TextGraphicsConverter` image converter interface
+[Проект 5. Конвертер в текстовую графику:](https://github.com/sng78/Converter) Participated in the development of an application that can download images by URL and convert images into text graphics. Implemented the `BadImageSizeException` exception class, the `TextColorSchema` color scheme interface and the `TextGraphicsConverter` image converter interface
 
 ---
 
-### :hammer_and_wrench: Languages and Tools
+### :hammer_and_wrench: Ключевые компетенции
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -59,7 +58,7 @@ How to reach me:
   <img src="https://github.com/sng78/SVG-icons/blob/main/Maven.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/sng78/SVG-icons/blob/main/JUnit5.svg" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/sng78/SVG-icons/blob/main/Mockito.svg" title="Mockito" alt="Mockito" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sng78/SVG-icons/blob/main/Mockito.svg" title="Mockito" alt="Mockito" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
@@ -76,12 +75,11 @@ How to reach me:
 
 ###### Java • Spring • Hibernate • Maven • Gradle • JUnit • Mockito • MySQL • PostgreSQL • IntelliJ IDEA • DBeaver • Git • GitHub • Linux (Ubuntu) • Python • Javascript • HTML • CSS • Bootstrap
 
-
 ---
 
-### :atom: My Education Documents (clickable)
+### :atom: Документы об образовании (кликабельно)
 
-Diploma of professional retraining: [Java software developer](https://github.com/sng78/education/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20%D0%BD%D0%B0%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%20Java.png)
+Диплом о профессиональной переподготовке: [Разработчик на языке Java](https://github.com/sng78/education/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20%D0%BD%D0%B0%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%20Java.png)
 
 Certificate: [Web, Spring, Spring MVC](https://github.com/sng78/education/blob/main/%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20Web%2C%20Spring%20%26%20Spring%20MVC.png)
 
@@ -95,7 +93,7 @@ Diploma of higher education: [Civil engineer "Industrial and Civil Construction"
 
 ---
 
-### :chart_with_upwards_trend: My Stats
+### :chart_with_upwards_trend: Статистика
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sng78&theme=solarized_dark)
 
