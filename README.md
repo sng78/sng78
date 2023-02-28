@@ -19,11 +19,11 @@
 
 Я junior java-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Я хочу найти работу программистом и внести свой вклад в разработку бэкенда для создания приложений
+- :potted_plant: Имею опыт разработки web-приложений на Java
 
-- :potted_plant: Имею опыт в разработке web-приложений на Java
+- :fire: Все свободное время я продолжаю обучение Spring, Spring AOP, Spring Boot, Spring MVC, Spring Security, REST, Docker. Кроме того, я изучаю английский язык
 
-- :fire: В свободное время я продолжаю обучение по: Spring, Spring AOP, Spring Boot, Spring MVC, Spring Security, REST, Docker. Кроме того, я изучаю английский язык
+- :telescope: Хочу найти работу программистом и заниматься разработкой back-end части приложений
 
 ---
 
