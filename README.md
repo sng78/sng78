@@ -43,9 +43,9 @@
 
 [Проект 3. Менеджер задач:](https://github.com/sng78/TaskManager) Разработал сервер в виде отдельного класса, который принимает запросы на добавление или удаление задач из списка. Текущее состояние списка задач сервер присылает по запросу. Реализовал клиент для демонстрации работы программы
 
-[Проект 4. Менеджер личных финансов:](https://github.com/sng78/FinanceManager) I wrote an application that receives requests with purchase information in JSON format to the server. The server responds with text JSON with information about the maximum categories. The file was read from and written to. Implemented a client to demonstrate how the program works.
+[Проект 4. Менеджер личных финансов:](https://github.com/sng78/FinanceManager) Реализовал приложение, на сервер которого приходят запросы с информацией о покупке в формате json. Сервер же в ответ отдает текстовый json с информацией о максимальных категориях. Выполнил чтение и запись в файл. Реализовал клиент для демонстрации работы программы
 
-[Проект 5. Конвертер в текстовую графику:](https://github.com/sng78/Converter) Participated in the development of an application that can download images by URL and convert images into text graphics. Implemented the `BadImageSizeException` exception class, the `TextColorSchema` color scheme interface and the `TextGraphicsConverter` image converter interface
+[Проект 5. Конвертер в текстовую графику:](https://github.com/sng78/Converter) Учавствовал в разработке приложения, умеющего скачивать картинки по url и конвертировать изображение в текстовую графику. Реализовал класс исключения `BadImageSizeException`, классы цветовой схемы `TextColorSchema` и конвертера картинок `TextGraphicsConverter`
 
 ---
 
