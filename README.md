@@ -21,7 +21,7 @@
 
 - :herb: Имею опыт разработки web-приложений на Java
 
-- :fire: Все свободное время я продолжаю обучение Spring, Spring AOP, Spring Boot, Spring MVC, Spring Security, REST, Docker. Кроме того, я изучаю английский язык
+- :fire: Все свободное время я продолжаю обучение Spring, Spring AOP, Spring Boot, Spring MVC, Spring Security, REST, Docker. Кроме того, изучаю английский язык
 
 - :telescope: Хочу найти работу программистом и заниматься разработкой back-end части приложений
 
