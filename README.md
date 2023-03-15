@@ -21,7 +21,7 @@
 
 - :herb: Имею опыт разработки web-приложений на Java
 
-- :fire: Все свободное время я отдаю обучению Spring, Spring AOP, Spring Boot, Spring MVC, Spring Security, REST, Docker. Кроме того, изучаю английский язык
+- :fire: Все свободное время я отдаю обучению Spring MVC, Spring Boot, Spring Security, REST, Docker. Кроме того, изучаю английский язык
 
 - :telescope: Ищу работу java-разработчиком, хочу заниматься разработкой back-end части приложений
 
@@ -59,7 +59,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Framework" alt="Spring Framework" width="40" height="40"/>&nbsp;
   <img src="https://github.com/sng78/SVG-icons/blob/main/Hibernate.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/sng78/SVG-icons/blob/main/Maven.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
@@ -79,7 +79,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
-###### Java • Spring • Hibernate • Maven • Gradle • JUnit • Mockito • MySQL • PostgreSQL • IntelliJ IDEA • DBeaver • Git • GitHub • Linux (Ubuntu) • Python • Javascript • HTML • CSS • Bootstrap
+###### Java • Spring Framework • Hibernate • Maven • Gradle • JUnit • Mockito • MySQL • PostgreSQL • IntelliJ IDEA • DBeaver • Git • GitHub • Linux (Ubuntu) • Python • Javascript • HTML • CSS • Bootstrap
 
 ---
 
