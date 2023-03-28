@@ -63,6 +63,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/sng78/SVG-icons/blob/main/Spring%20Framework.svg" title="Spring Framework" alt="Spring Framework" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring MVC" alt="Spring MVC" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sng78/SVG-icons/blob/main/Spring%20REST%20Docs.svg" title="Spring REST" alt="Spring REST" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sng78/SVG-icons/blob/main/Spring%20Security.svg" title="Spring Security" alt="Spring Security" width="40" height="40"/>&nbsp;
   <img src="https://github.com/sng78/SVG-icons/blob/main/Hibernate.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/sng78/SVG-icons/blob/main/Maven.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
@@ -74,7 +76,7 @@
   <img src="https://github.com/sng78/SVG-icons/blob/main/DBeaver.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
@@ -82,7 +84,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
-###### Java • Spring Framework • Spring MVC • Hibernate • Maven • Gradle • JUnit • Mockito • MySQL • PostgreSQL • IntelliJ IDEA • DBeaver • Git • GitHub • Linux (Ubuntu) • Python • Javascript • HTML • CSS • Bootstrap
+###### Java • Spring Framework • Spring MVC • Spring REST • Spring Security • Hibernate • Maven • Gradle • JUnit • Mockito • MySQL • PostgreSQL • IntelliJ IDEA • DBeaver • Git • GitHub • Linux • Python • Javascript • HTML • CSS • Bootstrap
 
 ---
 
