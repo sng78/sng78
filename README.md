@@ -85,7 +85,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
-###### Java • Spring Framework • Spring MVC • Spring REST • Spring Security • Hibernate • Maven • Gradle • JUnit • Mockito • MySQL • PostgreSQL • IntelliJ IDEA • DBeaver • Git • GitHub • Linux • Python • Javascript • HTML • CSS • Bootstrap
+###### Java • Spring Framework • Spring MVC • Spring REST • Spring Security • Spring Boot • Hibernate • Maven • Gradle • JUnit • Mockito • MySQL • PostgreSQL • IntelliJ IDEA • DBeaver • Git • GitHub • Linux • Python • Javascript • HTML • CSS • Bootstrap
 
 ---
 
