@@ -17,7 +17,7 @@
 
 ### :man: О себе
 
-Я junior Java разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Я Java разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :herb: Занимаюсь программированием, закончил курс Java разработчик в Нетологии. Имею опыт в разработке web-приложений на Java. Также изучал основы Python, Javascript, HTML и CSS, Bootstrap
 
