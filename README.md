@@ -41,6 +41,8 @@
 
 #### Стажировки
 
+- **Стажировка в TopJava (JavaOps).** Разработка полнофункционального Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей на стеке: Maven, Spring MVC, Security, JPA(Hibernate), REST(Jackson), Bootstrap (CSS, JS), DataTables, jQuery + plugins, Java 8 Stream and Time API и сохранением в базах данных PostgreSQL и HSQLDB. [[дополнительная информация]](https://github.com/sng78/TopJava)
+
 - **Виртуальная стажировка в Сбере от компании Preactum.** Разработал приложение по загрузке и обработке справочника городов России для B2B-сервиса СберБизнес [[дополнительная информация]](https://github.com/sng78/DirectoryOfCities)
 
 #### Проекты
