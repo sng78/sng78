@@ -31,7 +31,7 @@
 
 ### :envelope: Контакты
 Как со мной связаться:
- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-gorbachev/)
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sngor/)
  [![email Badge](https://img.shields.io/badge/-Mail.ru-blue?style=flat&logo=Mail.Ru&logoColor=yellow)](mailto:sng78@list.ru)
  [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat&logo=Telegram&logoColor=9cf)](https://t.me/sngor78)
 
