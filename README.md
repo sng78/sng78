@@ -29,7 +29,7 @@
 
 ---
 
-### :envelope: Контакты
+### :mailbox: Контакты
 
  [![email Badge](https://img.shields.io/badge/Y!-YahooMail-purple?style=flat)](mailto:serge.gor@yahoo.com)
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sngor/)
