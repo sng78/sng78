@@ -31,8 +31,8 @@
 
 ### :envelope: Контакты
 Как со мной связаться:
- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sngor/)
  [![email Badge](https://img.shields.io/badge/Y!-YahooMail-purple?style=flat)](mailto:serge.gor@yahoo.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sngor/)
  [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat&logo=Telegram&logoColor=9cf)](https://t.me/sngor78)
 
 ---
