@@ -31,9 +31,9 @@
 
 ### :mailbox: Контакты
 
- [![email Badge](https://img.shields.io/badge/Y!-YahooMail-purple?style=flat)](mailto:serge.gor@yahoo.com)
-  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sngor/)
- [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat&logo=Telegram&logoColor=9cf)](https://t.me/sngor78)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat&logo=Telegram&logoColor=9cf)](https://t.me/sngor78)
+[![email Badge](https://img.shields.io/badge/Y!-YahooMail-purple?style=flat)](mailto:serge.gor@yahoo.com)
+[![Linkedin Badge](https://img.shields.io/badge/in-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sngor/)
 
 ---
 
