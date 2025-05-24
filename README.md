@@ -59,31 +59,23 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sng78/SVG-icons/blob/main/Spring%20Framework.svg" title="Spring Framework" alt="Spring Framework" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring MVC" alt="Spring MVC" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sng78/SVG-icons/blob/main/Spring%20REST%20Docs.svg" title="Spring REST" alt="Spring REST" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sng78/SVG-icons/blob/main/Spring%20Security.svg" title="Spring Security" alt="Spring Security" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sng78/SVG-icons/blob/main/Spring%20Boot.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sng78/SVG-icons/blob/main/Hibernate.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/sng78/SVG-icons/blob/main/Maven.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sng78/SVG-icons/blob/main/JUnit5.svg" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sng78/SVG-icons/blob/main/Mockito.svg" title="Mockito" alt="Mockito" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sng78/SVG-icons/blob/main/DBeaver.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
-###### Java • Spring Framework • Spring MVC • Spring REST • Spring Security • Spring Boot • Hibernate • Maven • Gradle • JUnit • Mockito • MySQL • PostgreSQL • IntelliJ IDEA • DBeaver • Git • GitHub • Linux • Python • Javascript • HTML • CSS • Bootstrap
+Программирование и фреймворки: Java, Spring Boot, Spring Security, Spring MVC, Spring Data JPA, Spring JDBC Template, Hibernate, Maven, Gradle
+
+Базы данных: SQL, Postgres, MySQL, HSQLDB, H2
+
+Тесты, логирование: JUnit, AssertJ, Hamcrest, Mockito, Spring Security Test, LogBack, SLF4J
+
+Библиотеки: Jackson, GSON, JAXB (XML), iTextPDF, Evo Inflector, Lombok, XChart, Ehcache, Telegram Bots
+
+Документация: Swagger, Javadoc
+
+Web и Frontend: Tomcat, Servlets, HttpComponents, JWT, JSP, JSTL, Thymeleaf, HTML, CSS, Bootstrap, DataTables, jQuery, WebJars
+
+Программы и ОС: IntelliJ IDEA, Git, DBeaver, Postman, Jira, Trello, Notion, Windows, Linux (Ubuntu, Fedora)
+
+Soft Skills: Agile, Scrum, Kanban, Time Managment
 
 ---
 
