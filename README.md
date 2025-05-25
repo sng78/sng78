@@ -95,7 +95,7 @@ Soft Skills: Agile, Scrum, Kanban, Time Managment
 
 - Сертификат "Основы Python", 2021 [[клик]](https://drive.google.com/file/d/1xOR7AvO3_uZQErMesVKFI4U5hOOnSzjp/view?usp=drive_link)
 
-#### Сертификаты Soft Skills
+#### Сертификаты прочие
 
 - Сертификат "Гибкие методологии управления проектами с Аспро.Agile", 2025 [[клик]](https://drive.google.com/file/d/1EW5zOo75LTLE9D3aQ6IRlY1oSe3jI8LR/view?usp=drive_link)
 
