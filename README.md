@@ -79,29 +79,29 @@ Soft Skills: Agile, Scrum, Kanban, Time Managment
 
 #### Дипломы
 
-- Диплом о профессиональной переподготовке "Разработчик на языке Java", 2022 [[клик]](https://drive.google.com/file/d/12YpF3NzBpq2KqBHFncaYqP3Hpvv3Nlop/view?usp=drive_link)
+- Разработчик на языке Java, профессиональная переподготовка; Нетология, 2022 [[клик]](https://drive.google.com/file/d/12YpF3NzBpq2KqBHFncaYqP3Hpvv3Nlop/view?usp=drive_link)
 
-- Диплом о высшем образовании "Инженер по специальности Промышленное и гражданское строительство", 2006 [[клик]](https://drive.google.com/file/d/1jHJHkHiEtVj0M527nhDmP6rRo5MOV0nl/view?usp=drive_link)
+- Инженер по специальности ‘Промышленное и гражданское строительство’, диплом о высшем образовании; МГСУ, 2006 [[клик]](https://drive.google.com/file/d/1jHJHkHiEtVj0M527nhDmP6rRo5MOV0nl/view?usp=drive_link)
 
 #### Сертификаты по разработке
 
-- Сертификат "Spring - Полный курс. Boot, Hibernate, Security, REST", 2025 [[клик]](https://drive.google.com/file/d/1JK4zF4jnWlkEOpOyPTC0BiPuVJbF_wWq/view?usp=drive_link)
+- Spring - Полный курс. Boot, Hibernate, Security, REST; Swiftbook, 2025 [[клик]](https://drive.google.com/file/d/1JK4zF4jnWlkEOpOyPTC0BiPuVJbF_wWq/view?usp=drive_link)
 
-- Сертификат об окончании стажировки "Java-разработчик корпоративных приложений", 2024 [[клик]](https://drive.google.com/file/d/1tKKfY8nTEnEXLedo9hc1BAIg7_7xU-WH/view?usp=drive_link)
+- Java-разработчик корпоративных приложений; TopJava, 2024 [[клик]](https://drive.google.com/file/d/1tKKfY8nTEnEXLedo9hc1BAIg7_7xU-WH/view?usp=drive_link)
 
-- Свидетельство "Web, Spring, Spring MVC", 2023 [[клик]](https://drive.google.com/file/d/1nSokgVYCnQW4QaWg24BsAYVvb_ZEasEM/view?usp=drive_link)
+- Web, Spring, Spring MVC; Нетология, 2023 [[клик]](https://drive.google.com/file/d/1nSokgVYCnQW4QaWg24BsAYVvb_ZEasEM/view?usp=drive_link)
 
-- Свидетельство "Основы SQL", 2023 [[клик]](https://drive.google.com/file/d/1CU7Jl9sjVvOPxOVVqsmomaSnGjLCEXxu/view?usp=drive_link)
+- Основы SQL; Нетология, 2023 [[клик]](https://drive.google.com/file/d/1CU7Jl9sjVvOPxOVVqsmomaSnGjLCEXxu/view?usp=drive_link)
 
-- Сертификат "Основы Python", 2021 [[клик]](https://drive.google.com/file/d/1xOR7AvO3_uZQErMesVKFI4U5hOOnSzjp/view?usp=drive_link)
+- Основы Python; Stepik, 2021 [[клик]](https://drive.google.com/file/d/1xOR7AvO3_uZQErMesVKFI4U5hOOnSzjp/view?usp=drive_link)
 
 #### Сертификаты прочие
 
-- Сертификат "Гибкие методологии управления проектами с Аспро.Agile", 2025 [[клик]](https://drive.google.com/file/d/1EW5zOo75LTLE9D3aQ6IRlY1oSe3jI8LR/view?usp=drive_link)
+- Гибкие методологии управления проектами с Аспро.Agile; Stepik, 2025 [[клик]](https://drive.google.com/file/d/1EW5zOo75LTLE9D3aQ6IRlY1oSe3jI8LR/view?usp=drive_link)
 
-- Сертификат "Jira: ведение задач на электронных досках", 2025 [[клик]](https://drive.google.com/file/d/1cMKtHCEREQSsRf6iNAYgvHiy4zSq4HOz/view?usp=drive_link)
+- Jira: ведение задач на электронных досках; Stepik, 2025 [[клик]](https://drive.google.com/file/d/1cMKtHCEREQSsRf6iNAYgvHiy4zSq4HOz/view?usp=drive_link)
 
-- Сертификат "Тайм-менеджмент", 2016 [[клик]](https://drive.google.com/file/d/1AjZgsZnP-ROJUofdubi4LXHtiUHXAu8q/view?usp=drive_link)
+- Тайм-менеджмент; 2016 [[клик]](https://drive.google.com/file/d/1AjZgsZnP-ROJUofdubi4LXHtiUHXAu8q/view?usp=drive_link)
 
 ---
 
