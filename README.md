@@ -57,15 +57,15 @@
 
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp; Навыки
 
-Backend: Java, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring JDBC Template, Hibernate, JSON (Jackson, GSON), XML (JAXB), Lombok, Ehcache, PostgreSQL, MySQL, Servlets, Apache Tomcat, HttpComponents, JWT.
+**Backend:** Java, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring JDBC Template, Hibernate, JSON (Jackson, GSON), XML (JAXB), Lombok, Ehcache, PostgreSQL, MySQL, Servlets, Apache Tomcat, HttpComponents, JWT.
 
-Тестирование: JUnit, Mockito, AssertJ, Hamcrest, Spring Security Test.
+**Тестирование:** JUnit, Mockito, AssertJ, Hamcrest, Spring Security Test.
 
-Инструменты: Maven, Gradle, Logback, SLF4J, Swagger, Javadoc.
+**Инструменты:** Maven, Gradle, Logback, SLF4J, Swagger, Javadoc.
 
-Frontend: HTML, CSS, JSP, JSTL, Thymeleaf, Bootstrap, DataTables, jQuery, WebJars.
+**Frontend:** HTML, CSS, JSP, JSTL, Thymeleaf, Bootstrap, DataTables, jQuery, WebJars.
 
-Программы: IntelliJ IDEA, Git, Postman, DBeaver, Jira, Trello, Notion, Windows, Linux (Ubuntu, Fedora).
+**Программы:** IntelliJ IDEA, Git, Postman, DBeaver, Jira, Trello, Notion, Windows, Linux (Ubuntu, Fedora).
 
 ---
 
