@@ -57,21 +57,15 @@
 
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp; Навыки
 
-Программирование и фреймворки: Java, Spring Boot, Spring Security, Spring MVC, Spring Data JPA, Spring JDBC Template, Hibernate, Maven, Gradle
+Backend: Java, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring JDBC Template, Hibernate, JSON (Jackson, GSON), XML (JAXB), Lombok, Ehcache, PostgreSQL, MySQL, Servlets, Apache Tomcat, HttpComponents, JWT.
 
-Базы данных: SQL, Postgres, MySQL, HSQLDB, H2
+Тестирование: JUnit, Mockito, AssertJ, Hamcrest, Spring Security Test.
 
-Тесты, логирование: JUnit, AssertJ, Hamcrest, Mockito, Spring Security Test, LogBack, SLF4J
+Инструменты: Maven, Gradle, Logback, SLF4J, Swagger, Javadoc.
 
-Библиотеки: Jackson, GSON, JAXB (XML), iTextPDF, Evo Inflector, Lombok, XChart, Ehcache, Telegram Bots
+Frontend: HTML, CSS, JSP, JSTL, Thymeleaf, Bootstrap, DataTables, jQuery, WebJars.
 
-Документация: Swagger, Javadoc
-
-Web и Frontend: Tomcat, Servlets, HttpComponents, JWT, JSP, JSTL, Thymeleaf, HTML, CSS, Bootstrap, DataTables, jQuery, WebJars
-
-Программы и ОС: IntelliJ IDEA, Git, DBeaver, Postman, Jira, Trello, Notion, Windows, Linux (Ubuntu, Fedora)
-
-Soft Skills: Agile, Scrum, Kanban, Time Managment
+Программы: IntelliJ IDEA, Git, Postman, DBeaver, Jira, Trello, Notion, Windows, Linux (Ubuntu, Fedora).
 
 ---
 
